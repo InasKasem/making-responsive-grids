@@ -20,15 +20,6 @@ body {
 }
 
 .img-flex {
-  display:block;
-  width: 100%;
-}
-
-.grid {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.xs-1 {
+  display: block;
   width: 100%;
 }
